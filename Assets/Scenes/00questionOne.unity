@@ -550,7 +550,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 3418791387378960384}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: LoadQuestionTwo
+        m_MethodName: QuestionOneRight
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
