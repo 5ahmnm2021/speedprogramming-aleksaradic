@@ -5,17 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-    public void LoadWelcomeScene()
+    public void LoadQuestionOne()
     {
         SceneManager.LoadScene("00questionOne");
     }
 
-    public void LoadColorScene()
+    public void LoadQuestionTwo()
     {
         SceneManager.LoadScene("01questionTwo");
     }
 
-    public void LoadNumberScene()
+    public void LoadAnswer()
     {
         SceneManager.LoadScene("02answer");
     }
