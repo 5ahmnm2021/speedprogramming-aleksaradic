@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
+    public int answers;
+
     public void LoadQuestionOne()
     {
         SceneManager.LoadScene("00questionOne");
